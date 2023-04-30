@@ -28,7 +28,7 @@ I am also Red-Grey hat hacker, profesional at Cybersecurity
 - Repairing and maintaining hardware and electronic end-user devices
 
 ### 🔖 Certificates
-- :| ...Northing, yet.
+- CTF -- CaptureTheFlag
 
 ### ⏺ URL's
 - View my ```Linktree``` profiles:
