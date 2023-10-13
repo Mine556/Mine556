@@ -29,6 +29,7 @@ I am also Red-Grey hat H@ck3r, profesional at Cybersecurity.
 - Apple in general
 - NVIDIA Closed source drivers
 
+<img src="kali.png">
   
 ### 📖 Experience
 - Software engineer at ```AstrumQ Interactive``` & ```MII™ MI INDUSTRIES™(Mi3V-MII)```
