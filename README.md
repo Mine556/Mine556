@@ -14,10 +14,10 @@ I am also Red-Grey hat H@ck3r, profesional at Cybersecurity.
 
 ### 📚 Skills
 - •MarkDown (.md)
-- •C++/C  •C# •Groovy •Java •Python •DotNET •Xamarin •Kotlin(for Android) •Swift(for iOS)
+- •C++/C  •C# •Groovy •Java •Python •DotNET •Xamarin •Kotlin(for Android) •Swift(for iOS) •SQL 
 - •WPF •UWP •JavaFX •Xamarin •AndroidStudio •VSC (Visual-Studio-Code) •Blender / (Open)-CAD
 - •OpenGL •OpenCV
-- •JSON •XML •HTML5 •CSS3 •JavaScript & TypeScript •YAML •SASS/LESS •HAML •SCSS •Vue •React
+- •JSON •XML •HTML5 •CSS3 •JavaScript & TypeScript •PHP •YAML •SASS/LESS •HAML •SCSS •Vue •React
 - •Documentation •Reverse engineering •Crypto(BTC) Development •Computer architecture
 - •Black Hat H@cking •Red-Grey hat H@cking •Carding (..not illegally , but preventing from it) •Cracking(SW / HW) like Denuvo etc...
 - •Linux (Kali & Arch Linux) •FreeBSD •MacOS (H@cking) •Android-Modding
