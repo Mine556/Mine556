@@ -33,7 +33,7 @@ I am also Red-Grey hat H@ck3r, profesional at Cybersecurity.
   
 ### 📖 Experience
 - Software engineer at ```AstrumQ Interactive``` & ```M2-IE (formerly Mi3V-MII)```
-- (... originally I was Black) Red-Grey hat H@ck3r
+- Red-Grey hat H@ck3r
 - BTC development...Crypto
 - Android /iOS Developer of some exploits, apps, web-apps etc..
 - Repairing and maintaining hardware and electronic end-user devices
