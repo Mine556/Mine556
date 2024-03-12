@@ -32,7 +32,7 @@ I am also Red-Grey hat H@ck3r, profesional at Cybersecurity.
 <img src="nvidia-f-ck-u.jpeg">
   
 ### 📖 Experience
-- Software engineer at ```AstrumQ Interactive``` & ```M2-IE (formerly Mi3V-MII)```
+- Software engineer at & ```M2-IE```
 - Red-Grey hat H@ck3r
 - BTC development...Crypto
 - Android /iOS Developer of some exploits, apps, web-apps etc..
