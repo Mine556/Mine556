@@ -6,8 +6,8 @@ I enjoy exploring the "Banned" fruit; scouring thru the system insidely and outs
 
 ### WHAT-I-HATE (the-most)
 - Entire Windows platform (By year 2024 ... + CrowdStrike)
-- NVIDIA's closed source drivers & decompiling its "drivers"
- <img src="/nvidia-f-ck-u.jpeg" alt="NVIDIA-LinusTorvalds">
+- NVIDIA's closed source drivers & decompiling its "drivers"<br>
+ <img src="/nvidia-f-ck-u.jpeg" alt="NVIDIA-LinusTorvalds"> <br>
 - Apple Ecosystem...(except. that airpods (pro v2)...I dont wanna to update their system fr..))
 - Kernel-AntiCheats ...Yeah thats like when u wanna pigs to fly xD...
 
