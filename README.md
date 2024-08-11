@@ -2,7 +2,7 @@
 ...IDK , irl IDK.. :P
 
 ### ABOUT-ME
-I enjoy exploring the "Banned" fruit; scouring thru the system insidely and outsidely; looking for the gaps in the glass fortress; planting the backdoors; exfiltrating valuable creds and data; to hide in thy thought wor(l)d.
+I enjoy exploring the "Banned" fruit; scouring thru the system insidely and outsidely; looking for the gaps in the glass fortress; planting the backdoors; exfiltrating valuable creds and data; to hide in thy thought wor(l)ds.
 
 ### WHAT-I-HATE (the-most)
 - Entire Windows platform (By year 2024 ... + CrowdStrike)
